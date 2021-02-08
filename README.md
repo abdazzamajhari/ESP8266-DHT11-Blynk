@@ -1,4 +1,4 @@
 # ESP8266-DHT11-Blynk
-store and data interface with blynk
+store and data ESP8266 and DHT11 interface with blynk
 
-For my presentation purpose on Binus Graduate Program lecture
+For my presentation purpose on Binus Graduate Program of IoT lecture
